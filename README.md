@@ -1,2 +1,3 @@
-# dpd-pakubode-shipping-opencart
-Opencart Shipping Extension for DPD Pakubode
+# Opencart Shipping Extension for DPD Pakubode
+
+This is commercial extension
